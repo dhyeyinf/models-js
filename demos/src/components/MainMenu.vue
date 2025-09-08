@@ -74,7 +74,7 @@
     <p class="menu-label">Contact</p>
     <ul class="menu-list contact">
       <li>
-        <a href="https://github.com/transcranial" target="_blank" rel="noopener noreferrer"><v-icon>fa-github</v-icon> Leon Chen</a>
+        <a href="https://github.com/dhyeyinf" target="_blank" rel="noopener noreferrer"><v-icon>fa-github</v-icon> Leon Chen</a>
       </li>
       <li>
         <a href="https://twitter.com/transcranial" target="_blank" rel="noopener noreferrer"><v-icon>fa-twitter</v-icon> @transcranial</a>
