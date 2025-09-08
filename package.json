@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transcranial/keras-js.git"
+    "url": "git+https://github.com/dhyeyinf/models-js.git"
   },
   "keywords": ["keras", "deep", "learning", "neural", "networks", "javascript", "webgl", "webgl2", "gpu"],
   "author": "Leon Chen <leon@md.ai>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/transcranial/keras-js/issues"
+    "url": "https://github.com/dhyeyinf/models-js/issues"
   },
-  "homepage": "https://github.com/transcranial/keras-js#readme",
+  "homepage": "https://github.com/dhyeyinf/models-js#readme",
   "dependencies": {
     "@babel/polyfill": "7.0.0-beta.39",
     "axios": "^0.17.1",

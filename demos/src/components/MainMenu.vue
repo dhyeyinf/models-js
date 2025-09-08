@@ -61,7 +61,7 @@
     <p class="menu-label">Links</p>
     <ul class="menu-list github">
       <li>
-        <a href="https://github.com/transcranial/keras-js" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/dhyeyinf/models-js" target="_blank" rel="noopener noreferrer">
           <span class="menu-item-heading"><v-icon>fa-github</v-icon> GitHub repo</span>
         </a>
       </li>
