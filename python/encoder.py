@@ -113,7 +113,6 @@ if __name__ == '__main__':
         name = args.name
     else:
         name = os.path.splitext(os.path.basename(hdf5_model_filepath))[0]
-
     quantize = args.quantize
 
     encoder = Encoder(hdf5_model_filepath, name, quantize)
